@@ -15,6 +15,8 @@
       <FILE id="sI3Xx2" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
       <FILE id="kLhgQM" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="HsgcTc" name="VolumeStats.cpp" compile="1" resource="0" file="Source/VolumeStats.cpp"/>
+      <FILE id="ZqQgvy" name="VolumeStats.h" compile="0" resource="0" file="Source/VolumeStats.h"/>
     </GROUP>
   </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
